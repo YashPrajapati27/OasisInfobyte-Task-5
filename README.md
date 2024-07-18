@@ -1,3 +1,4 @@
+![logo](https://github.com/YashPrajapati27/OasisInfobyte-Task-5/blob/main/Sales-forecast.png)
 # Sales Price Prediction using Machine Learning 📈💰
 
 Thrilled to unveil my latest project: Sales Price Prediction using Machine Learning! 🛍️🔍 In this project, I applied the powerful techniques of machine learning, specifically utilizing a Linear Regression model, to forecast sales prices with precision. With Python as our foundation and essential libraries such as NumPy, Pandas, Scikit-learn, Matplotlib, and Seaborn in our toolkit, our journey unfolded as follows:
